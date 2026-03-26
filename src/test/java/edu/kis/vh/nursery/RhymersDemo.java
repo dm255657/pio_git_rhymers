@@ -3,7 +3,7 @@ package edu.kis.vh.nursery;
 import edu.kis.vh.nursery.factory.DefaultRhymersFactory;
 import edu.kis.vh.nursery.factory.Rhymersfactory;
 
-class RhymersDemo {
+final class RhymersDemo {
 
     public static final int NUMBERS_AMOUNT = 15;
     public static final int RHYMERS_COUNT = 3;
